@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 98ec86860762899419a73904ca0f3030
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268883
+  packageName: JoyCon Support
+  packageVersion: 0.1.0
+  assetPath: Assets/JoyCon/Examples/Scene/ExampleJoyConController.unity
+  uploadId: 644625

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6b885591e433a3f4796b3fca12f54f33
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268883
+  packageName: JoyCon Support
+  packageVersion: 0.1.0
+  assetPath: Assets/JoyCon/Examples/Scene/player.cs
+  uploadId: 644625

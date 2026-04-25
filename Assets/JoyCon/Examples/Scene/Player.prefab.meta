@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 27d644790938c8c428dd29178e979715
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268883
+  packageName: JoyCon Support
+  packageVersion: 0.1.0
+  assetPath: Assets/JoyCon/Examples/Scene/Player.prefab
+  uploadId: 644625

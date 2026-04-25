@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e485c9fc278adb244a00c11a5d7b030c
+AssemblyDefinitionReferenceImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268883
+  packageName: JoyCon Support
+  packageVersion: 0.1.0
+  assetPath: Assets/JoyCon/Scripts/InputSystem.asmref
+  uploadId: 644625

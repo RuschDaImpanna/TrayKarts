@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 93a98cd2df4ae2844be6d129922edf9a
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268883
+  packageName: JoyCon Support
+  packageVersion: 0.1.0
+  assetPath: Assets/JoyCon/Readme.txt
+  uploadId: 644625

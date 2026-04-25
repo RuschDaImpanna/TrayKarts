@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b925ace02c3042f4e93db611e02b081f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 268883
+  packageName: JoyCon Support
+  packageVersion: 0.1.0
+  assetPath: Assets/JoyCon/Scripts/SwitchJoyCon.cs
+  uploadId: 644625
